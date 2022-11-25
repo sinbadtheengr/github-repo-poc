@@ -1,9 +1,0 @@
-{
-  "profiles": {
-    "OIApiFunctionApp": {
-      "commandName": "Project",
-      "commandLineArgs": "--port 7064",
-      "launchBrowser": false
-    }
-  }
-}
